@@ -9,4 +9,4 @@ dependencies:
 - pandas
 - seaborn
 - plotly
-- sklearn
+- scikit-learn
