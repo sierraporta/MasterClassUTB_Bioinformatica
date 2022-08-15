@@ -1,0 +1,12 @@
+name: datos_DEEP
+dependencies:
+- pip
+- python
+- ipython
+- jupyter
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- plotly
+- sklearn
