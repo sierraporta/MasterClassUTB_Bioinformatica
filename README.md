@@ -1,9 +1,7 @@
 # MasterClassUTB_Bioinformatica
 Material para masterclass UTB Maestría en Bioinformática
 
-.. image:: https://travis-ci.org/bccp/nbodykit.svg?branch=master
-    :alt: Build Status
-    :target: https://travis-ci.org/bccp/nbodykit
+![image]https://travis-ci.org/bccp/nbodykit.svg?branch=master][https://travis-ci.org/bccp/nbodykit]
 .. image:: https://coveralls.io/repos/github/bccp/nbodykit/badge.svg?branch=master
     :alt: Test Coverage
     :target: https://coveralls.io/github/bccp/nbodykit?branch=master
