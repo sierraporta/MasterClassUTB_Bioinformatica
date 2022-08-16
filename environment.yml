@@ -1,4 +1,8 @@
-name: datos_DEEP
+# conda env create -f environment.yml
+name: masterclass
+channels:
+  - defaults
+  - conda-forge
 dependencies:
 - pip
 - python
